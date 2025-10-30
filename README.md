@@ -39,14 +39,11 @@
 </div>
 
 
-
-
-
 ---
 
-## 🔗 Me retrouver
+## 🔗 Contact
 
-📫 Contacte-moi sur [LinkedIn](https://www.linkedin.com/in/wilstan-sanquer)
+📫 Retrouver-moi sur [LinkedIn](https://www.linkedin.com/in/wilstan-sanquer)
 
 </div>
 
