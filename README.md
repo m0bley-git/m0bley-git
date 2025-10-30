@@ -1,6 +1,5 @@
 <div align="center">
 
-# 👋 Salut, moi c’est **Wilstan Sanquer**
 🎓 Étudiant en BTS CIEL | Passionné par Linux, le code et l’administration système  
 💡 Objectif : intégrer l’école 42 et progresser chaque jour dans le développement
 
