@@ -1,7 +1,7 @@
 <div align="center">
 
-🎓 Étudiant en BTS CIEL | Passionné par Linux, le code et l’administration système  
-💡 Objectif : intégrer l’école 42 et progresser chaque jour dans le développement
+
+![Bannière](https://capsule-render.vercel.app/api?type=waving&color=0:2E2EFF,100:7F00FF&height=180&section=header&text=Wilstan%20Sanquer%20👨‍💻&fontSize=40&fontAlignY=35&desc=Étudiant%20en%20BTS%20CIEL%20|%20Objectif%20École%2042&descAlignY=55&animation=fadeIn&fontColor=ffffff)
 
 ---
 
@@ -25,10 +25,22 @@
 
 ---
 
+
 ## 📊 Stats GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=wilstan-sanquer&show_icons=true&theme=tokyonight)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilstan-sanquer&layout=compact&theme=tokyonight)
+<div align="center" style="display:flex; flex-direction:column; align-items:center;">
+  <div style="display:flex; gap:10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=wilstan-sanquer&show_icons=true&theme=tokyonight" alt="Stats GitHub"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilstan-sanquer&layout=compact&theme=tokyonight" alt="Langages"/>
+  </div>
+  <div style="display:flex; width:100%; justify-content:flex-start; margin-top:5px;">
+    <img src="https://img.shields.io/badge/Public%20Repos-1-blue?style=for-the-badge&logo=github" alt="Repos publics"/>
+  </div>
+</div>
+
+
+
+
 
 ---
 
