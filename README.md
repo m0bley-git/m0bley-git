@@ -29,24 +29,26 @@
 
 ---
 
-## 📊 Stats GitHub
+## 📊 Mes Stats GitHub
 
-<div align="center" style="display:flex; flex-direction:column; align-items:center; gap:15px;">
+<div align="center" style="display:flex; flex-direction:column; align-items:center; gap:20px;">
 
-  <!-- Graphique général des stats -->
-  <div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
+  <!-- Graphiques principaux -->
+  <div style="display:flex; gap:15px; flex-wrap:wrap; justify-content:center;">
+    <!-- Stats générales -->
     <img src="https://github-readme-stats.vercel.app/api?username=wilstan-sanquer&show_icons=true&theme=tokyonight&count_private=true" alt="Stats GitHub"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilstan-sanquer&layout=compact&theme=tokyonight&langs_count=8" alt="Langages"/>
+    <!-- Langages utilisés (cercle) -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilstan-sanquer&layout=pie&theme=tokyonight&langs_count=20" alt="Langages"/>
   </div>
 
-  <!-- Repos et activité -->
-  <div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center; margin-top:5px;">
+  <!-- Badges Repos et activité -->
+  <div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center; margin-top:10px;">
     <img src="https://img.shields.io/badge/Public%20Repos-1-blue?style=for-the-badge&logo=github" alt="Repos publics"/>
     <img src="https://img.shields.io/badge/Private%20Repos-3-lightgrey?style=for-the-badge&logo=github" alt="Repos privés"/>
-    <img src="https://img.shields.io/badge/Commits%20this%20year-XYZ-green?style=for-the-badge&logo=github" alt="Commits"/>
   </div>
 
 </div>
+
 
 
 ---
