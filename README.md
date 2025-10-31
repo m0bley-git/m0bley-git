@@ -50,6 +50,9 @@
 
 ## 🔗 Contact
 
-📫 Retrouver-moi sur [LinkedIn](https://www.linkedin.com/in/wilstan-sanquer)
+[![Email](https://img.shields.io/badge/Email-wilstan.github@proton.me-blue?style=flat&logo=protonmail&logoColor=white)](mailto:wilstan.github@proton.me)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilstan-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilstan-sanquer)
+
+
 
 </div>
