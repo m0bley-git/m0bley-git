@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Bannière](https://capsule-render.vercel.app/api?type=waving&color=0:2E2EFF,100:7F00FF&height=180&section=header&text=Wilstan%20Sanquer%20👨‍💻&fontSize=40&fontAlignY=35&desc=Étudiant%20en%20BTS%20CIEL%20|%20Objectif%20École%2042&descAlignY=55&animation=fadeIn&fontColor=ffffff)
+![Bannière](https://capsule-render.vercel.app/api?type=waving&color=0:2E2EFF,100:7F00FF&height=220&section=header&text=Wilstan%20Sanquer%20👨‍💻&fontSize=40&fontAlignY=35&desc=Étudiant%20en%20BTS%20CIEL%20|%20Objectif%20École%2042&descAlignY=55&animation=fadeIn&fontColor=ffffff)
 
 ---
 
@@ -12,6 +12,7 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
 
 ---
 
@@ -28,17 +29,23 @@
 
 ---
 
-
 ## 📊 Stats GitHub
 
-<div align="center" style="display:flex; flex-direction:column; align-items:center;">
-  <div style="display:flex; gap:10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=wilstan-sanquer&show_icons=true&theme=tokyonight" alt="Stats GitHub"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilstan-sanquer&layout=compact&theme=tokyonight" alt="Langages"/>
+<div align="center" style="display:flex; flex-direction:column; align-items:center; gap:15px;">
+
+  <!-- Graphique général des stats -->
+  <div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=wilstan-sanquer&show_icons=true&theme=tokyonight&count_private=true" alt="Stats GitHub"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilstan-sanquer&layout=compact&theme=tokyonight&langs_count=8" alt="Langages"/>
   </div>
-  <div style="display:flex; width:100%; justify-content:flex-start; margin-top:5px;">
+
+  <!-- Repos et activité -->
+  <div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center; margin-top:5px;">
     <img src="https://img.shields.io/badge/Public%20Repos-1-blue?style=for-the-badge&logo=github" alt="Repos publics"/>
+    <img src="https://img.shields.io/badge/Private%20Repos-3-lightgrey?style=for-the-badge&logo=github" alt="Repos privés"/>
+    <img src="https://img.shields.io/badge/Commits%20this%20year-XYZ-green?style=for-the-badge&logo=github" alt="Commits"/>
   </div>
+
 </div>
 
 
@@ -49,11 +56,3 @@
 📫 Retrouver-moi sur [LinkedIn](https://www.linkedin.com/in/wilstan-sanquer)
 
 </div>
-
-
-</div>
-
-
-
-
-
