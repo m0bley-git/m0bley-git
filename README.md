@@ -50,8 +50,9 @@
 
 ## 🔗 Contact
 
-[![Email](https://img.shields.io/badge/Email-wilstan.github@proton.me-blue?style=flat&logo=protonmail&logoColor=white)](mailto:wilstan.github@proton.me)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilstan-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilstan-sanquer)
+[![ProtonMail](https://img.shields.io/badge/-ProtonMail-white?style=flat-square&logo=protonmail&logoColor=violet)](mailto:wilstan.github@proton.me)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/wilstan-sanquer)
+
 
 
 
