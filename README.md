@@ -33,12 +33,9 @@
 
 <div align="center" style="display:flex; flex-direction:column; align-items:center; gap:20px;">
 
-  <!-- Graphiques principaux -->
+  <!-- Graphique principal -->
   <div style="display:flex; gap:15px; flex-wrap:wrap; justify-content:center;">
-    <!-- Stats générales -->
     <img src="https://github-readme-stats.vercel.app/api?username=wilstan-sanquer&show_icons=true&theme=tokyonight&count_private=true" alt="Stats GitHub"/>
-    <!-- Langages utilisés (cercle) -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilstan-sanquer&layout=pie&theme=tokyonight&langs_count=20" alt="Langages"/>
   </div>
 
   <!-- Badges Repos et activité -->
@@ -48,8 +45,6 @@
   </div>
 
 </div>
-
-
 
 ---
 
