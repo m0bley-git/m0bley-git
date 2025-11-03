@@ -35,7 +35,7 @@
 
   <!-- Graphique principal -->
   <div style="display:flex; gap:15px; flex-wrap:wrap; justify-content:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=wilstan-sanquer&show_icons=true&theme=tokyonight&count_private=true" alt="Stats GitHub"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=m0bley-git&show_icons=true&theme=tokyonight&count_private=true" alt="Stats GitHub"/>
   </div>
 
   <!-- Badges Repos et activité -->
