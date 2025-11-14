@@ -55,3 +55,9 @@
 
 
 </div>
+
+<hr>
+<p align="center">© 2025 — M0bley-git — GitHub</p>
+<hr>
+
+
