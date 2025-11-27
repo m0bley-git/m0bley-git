@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Bannière](https://capsule-render.vercel.app/api?type=waving&color=0:2E2EFF,100:7F00FF&height=220&section=header&text=Wilstan%20Sanquer%20&fontSize=40&fontAlignY=35&desc=Étudiant%20en%20BTS%20CIEL%20|%20Objectif%20École%2042&descAlignY=55&animation=fadeIn&fontColor=ffffff)
+![Bannière](https://capsule-render.vercel.app/api?type=waving&color=0:2E2EFF,100:7F00FF&height=220&section=header&text=Wilstan%20Sanquer%20&fontSize=40&fontAlignY=35&desc=Étudiant%20en%20BTS%20CIEL%20&descAlignY=55&animation=fadeIn&fontColor=ffffff)
 
 ---
 
