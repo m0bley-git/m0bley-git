@@ -38,7 +38,7 @@
 
   <!-- Badges Repos et activité -->
   <div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center; margin-top:10px;">
-    <img src="https://img.shields.io/badge/Public%20Repos-2-blue?style=for-the-badge&logo=github" alt="Repos publics"/>
+    <img src="https://img.shields.io/badge/Public%20Repos-3-blue?style=for-the-badge&logo=github" alt="Repos publics"/>
     <img src="https://img.shields.io/badge/Private%20Repos-3-lightgrey?style=for-the-badge&logo=github" alt="Repos privés"/>
   </div>
 
