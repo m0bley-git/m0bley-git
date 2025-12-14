@@ -4,56 +4,52 @@
   <img src="assets/welcome.png" alt="Bannière" width="900">
 </p>
 
+##
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/wilstan-sanquer)
+[![ProtonMail](https://img.shields.io/badge/-ProtonMail-000000?style=for-the-badge&logo=protonmail&logoColor=ffffff)](mailto:wilstan.github@proton.me)
+[![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/1393940631721611355)
+[![GitLab](https://img.shields.io/badge/-GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=ffffff)](https://gitlab.com/m0bley-git)
 
-## 🧰 Outils
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41cd52?style=for-the-badge&logo=qt&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-0097a7?style=for-the-badge&logo=cisco&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+## About me
+**Bonjour, je m'appelle Wilstan**  
+Je suis un jeune étudiant en **informatique et développement**, actuellement en **BTS CIEL (IR)**.  
+Je me concentre sur l'apprentissage des langages de programmation et des outils liés aux systèmes et réseaux.
 
----
+## Technologies
 
-## 💻 Compétences
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Qt Creator](https://img.shields.io/badge/Qt%20Creator-000000?style=for-the-badge&logo=qt&logoColor=ffffff)
+![Vim](https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
+![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=ffffff)
+![GitKraken](https://img.shields.io/badge/GitKraken-000000?style=for-the-badge&logo=gitkraken&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)
+![Debian](https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian&logoColor=ffffff)
+![Fedora](https://img.shields.io/badge/Fedora-000000?style=for-the-badge&logo=fedora&logoColor=ffffff)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-000000?style=for-the-badge&logo=virtualbox&logoColor=ffffff)
+![VMware](https://img.shields.io/badge/VMware-000000?style=for-the-badge&logo=vmware&logoColor=ffffff)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+## Statistics
 
----
+![Wilstan’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0bley-git&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0bley-git&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff)
+![GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=m0bley-git&theme=react-dark&hide_border=true&area_color=000000&line_color=ffffff&point_color=ffffff)
 
-## 📊 Mes Projets GitHub
 
-<div align="center" style="display:flex; flex-direction:column; align-items:center; gap:20px;">
 
-  <!-- Badges Repos et activité -->
-  <div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center; margin-top:10px;">
-    <img src="https://img.shields.io/badge/Public%20Repos-4-blue?style=for-the-badge&logo=github" alt="Repos publics"/>
-    <img src="https://img.shields.io/badge/Private%20Repos-3-lightgrey?style=for-the-badge&logo=github" alt="Repos privés"/>
-  </div>
 
-</div>
 
----
 
-## 🔗 Contact
 
-[![ProtonMail](https://img.shields.io/badge/-ProtonMail-8E2DE2?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:wilstan.github@proton.me)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilstan-sanquer)
+
+
+
 
 
 </div>
-
 
