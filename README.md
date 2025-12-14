@@ -13,7 +13,7 @@
 
 ## About me
 **Bonjour, je m'appelle Wilstan**  
-Je suis un jeune étudiant en **informatique et développement**, actuellement en **BTS CIEL (IR)**.  
+Je suis étudiant en **informatique et développement**, actuellement en **BTS CIEL (IR)**.  
 Je me concentre sur l'apprentissage des langages de programmation et des outils liés aux systèmes et réseaux.
 
 ## Technologies
