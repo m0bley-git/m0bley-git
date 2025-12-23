@@ -6,7 +6,6 @@
 
 ##
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/wilstan-sanquer)
 [![ProtonMail](https://img.shields.io/badge/-ProtonMail-000000?style=for-the-badge&logo=protonmail&logoColor=ffffff)](mailto:wilstan.github@proton.me)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/1393940631721611355)
 [![GitLab](https://img.shields.io/badge/-GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=ffffff)](https://gitlab.com/m0bley-git)
