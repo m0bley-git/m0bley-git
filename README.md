@@ -25,9 +25,9 @@ My goal is to join 42 Angoulême to learn more and improve my development skills
 <div align="center">
 
 <pre><code>
-VS Code • Vim • C++ • C • Java • HTML • CSS • Linux • Red Hat • Git • GitLab
+VS Code • Vim • Obsidian • C++ • C • Java • HTML • CSS • Linux • Red Hat • Git • GitLab
 </code></pre>
 
-<img src="https://skillicons.dev/icons?i=vscode,vim,cpp,c,java,html,css,linux,redhat,git,gitlab" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=vscode,vim,obsidian,cpp,c,java,html,css,linux,redhat,git,gitlab" alt="Tools" />
 
 </div>
