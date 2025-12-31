@@ -31,17 +31,3 @@ VS Code • Vim • C++ • C • Java • HTML • CSS • Linux • Red Hat �
 <img src="https://skillicons.dev/icons?i=vscode,vim,cpp,c,java,html,css,linux,redhat,git,gitlab" alt="Tools" />
 
 </div>
-
-## 📊 Statistics
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0bley-git&layout=compact&bg_color=1e1e1e&title_color=ffffff&text_color=d0d0d0&hide_border=true" height="165"/>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=m0bley-git&limit=5&theme=dark&combine_all_yearly_contributions=true" height="165"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=m0bley-git&theme=dark&hide_border=true" height="165"/>
-
-
-
-
-</div>
