@@ -55,7 +55,11 @@ VS Code • Vim • Obsidian • C++ • C • Java • HTML • CSS • Linux �
 - Strengthen low-level programming skills
 - Build reliable Linux-based systems
 
+<div align="center">
+  
 <pre><code>
 # still learning, still building
 git commit -m "progress > perfection"
 </code></pre>
+
+</div>
