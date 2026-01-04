@@ -1,7 +1,7 @@
 <h1 align="center">🖥️ Wilstan — Systems & Network Student</h1>
 
 <p align="center">
-  <img src="assets/photo.png" alt="Banner" width="60%" />
+  <img src="assets/wp2678454-fsociety-wallpapers.jpg" alt="Banner" width="20%" />
 </p>
 
 <div align="center">
