@@ -22,9 +22,9 @@ cd systems-and-networks
 ---
 
 ## 🧠 About me
-I’m **Wilstan**, 18.  
+I’m Wilstan, 18.  
 Based in France.  
-Student in **BTS CIEL**, focused on **systems, networks, and low-level programming**.  
+Student in BTS CIEL, focused on systems, networks, and low-level programming.  
 I mainly work on Linux, code in C/C++ and HTML/CSS, and build small technical and self-hosted projects.
 
 ---
@@ -51,7 +51,7 @@ VS Code • Vim • Obsidian • C++ • C • Java • HTML • CSS • Linux �
 ---
 
 ## 🎯 Goal
-- Join **42 Angoulême**
+- Join 42 Angoulême
 - Strengthen low-level programming skills
 - Build reliable Linux-based systems
 
