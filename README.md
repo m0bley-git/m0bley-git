@@ -30,7 +30,7 @@ I mainly work on Linux, code in C/C++ and HTML/CSS, and build small technical an
 
 ## 🔧 Projects
 
-- [**Projets_WJH**](https://github.com/m0bley-git/Projets_WJH) — Weather Judgment Hub: small app using APIs and manual input  
+- [**Projets_WJH**](https://github.com/SpectresAPT/Projets_WJH) — Weather Judgment Hub: small app using APIs and manual input  
   *Tech:* C++ & QT
 
 ---
