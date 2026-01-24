@@ -1,7 +1,7 @@
 <h1 align="center">🖥️ Wilstan — Systems & Network Student</h1>
 
 <p align="center">
-  <img src="assets/accueil.jpg" alt="Banner" width="25%" />
+  <img src="assets/images.png" alt="Banner" width="25%" />
 </p>
 
 <div align="center">
