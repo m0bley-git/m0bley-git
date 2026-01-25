@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/SpectresAPT">
-    <img src="assets/banniere_spectre.png" alt="Banner" width="38%" />
+    <img src="assets/banniere_spectre.png" alt="Banner" width="25%" />
   </a>
 </p>
 
