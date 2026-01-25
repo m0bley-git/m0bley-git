@@ -1,7 +1,7 @@
 <h1 align="center">🖥️ Wilstan — Systems & Network Student</h1>
 
 <p align="center">
-  <img src="assets/banniere_spectre.png" alt="Banner" width="25%" />
+  <img src="assets/banniere_spectre.png" alt="Banner" width="35%" />
 </p>
 
 <div align="center">
