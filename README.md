@@ -12,7 +12,7 @@
 <pre><code>
 git clone m0bley-git
 cd systems-and-networks
-./build.sh --linux --c --learning
+./build.sh --linux --dev --learning
 </code></pre>
 
 [![ProtonMail](https://img.shields.io/badge/-ProtonMail-000000?style=for-the-badge&logo=protonmail&logoColor=ffffff)](mailto:wilstan.github@proton.me)
@@ -56,10 +56,3 @@ VS Code • Vim • Obsidian • C++ • C • Java • HTML • CSS • Linux �
 - Join 42 Angoulême
 - Strengthen low-level programming skills
 - Build reliable Linux-based systems
-
-<div align="center">
-  
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=m0bley-git&theme=nord&no-frame=false&no-bg=false&margin-w=4&cache_seconds=86400)
-
-</div>
