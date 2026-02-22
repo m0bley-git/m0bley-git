@@ -46,7 +46,7 @@ I mainly work on Linux, code in C/C++ and HTML/CSS, and build small technical an
 VS Code • Vim • Obsidian • C++ • C • Java • HTML • CSS • Linux • Red Hat • Git • GitLab
 </code></pre>
 
-<img src="https://skillicons.dev/icons?i=vscode,vim,obsidian,cpp,c,java,html,css,linux,redhat,git,gitlab&size=72" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=sublime,vercel,cpp,c,java,html,css,linux,redhat,git,gitlab&size=72" alt="Tools" />
 
 </div>
 
