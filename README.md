@@ -59,9 +59,7 @@ VS Code • Vim • Obsidian • C++ • C • Java • HTML • CSS • Linux �
 
 <div align="center">
   
-<pre><code>
-# still learning, still building
-git commit -m "progress > perfection"
-</code></pre>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=m0bley-git&theme=nord&no-frame=false&no-bg=false&margin-w=4&cache_seconds=86400)
 
 </div>
