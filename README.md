@@ -1,58 +1,52 @@
 <h1 align="center">🖥️ Wilstan — Systems & Network Student</h1>
 
-<p align="center">
-  <a href="https://github.com/SpectresAPT">
-    <img src="assets/spectreapt.png" alt="Banner" width="28%" />
-  </a>
-</p>
 
-
-<div align="center">
-
-<pre><code>
-git clone m0bley-git
-cd systems-and-networks
-./build.sh --linux --dev --learning
-</code></pre>
-
-[![ProtonMail](https://img.shields.io/badge/-ProtonMail-000000?style=for-the-badge&logo=protonmail&logoColor=ffffff)](mailto:wilstan.github@proton.me)
-[![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/1393940631721611355)
-[![GitLab](https://img.shields.io/badge/-GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=ffffff)](https://gitlab.com/m0bley-git)
-
-</div>
+## 💻 Tech Stack
+![Skills](https://skillicons.dev/icons?i=vscode,sublime,cpp,c,java,html,css,vercel,linux,debian,raspberrypi,git)
 
 ---
 
-## 🧠 About me
-I’m Wilstan, 18.  
-Based in France.  
-Student in BTS CIEL, focused on systems, networks, and low-level programming.  
-I mainly work on Linux, code in C/C++ and HTML/CSS, and build small technical and self-hosted projects.
+## Français 🇫🇷
+### Étudiant en BTS CIEL, spécialité systèmes et réseaux.
+#### J'apprends la programmation, l'administration de serveurs Linux et la gestion de réseaux.
+#### Je construis des petits projets techniques, je self-host mes services et j'explore le monde de l'open source.
+#### Toujours en train d'apprendre, toujours en train de bidouiller.
+#### 📬 [Laisse-moi un message via GitHub Discussion](https://github.com/m0bley-git/m0bley-git/discussions?discussions_q=category%3AGuestbook)
 
----
+## English 🇬🇧
+### BTS CIEL student, specialized in systems and networks.
+#### Learning programming, Linux server administration and network management.
+#### I build small technical projects, self-host my services and explore the open source world.
+#### Always learning, always tinkering.
+#### 📬 [Leave me a message via GitHub Discussion](https://github.com/m0bley-git/m0bley-git/discussions?discussions_q=category%3AGuestbook)
+
+
 
 ## 🔧 Projects
 
-- [**Projets_WJH**](https://github.com/SpectresAPT/Projets_WJH) — Weather Judgment Hub: small app using APIs and manual input  
-  *Tech:* C++ & QT
+<p align="center">
+<table width="80%" align="center">
+  <tr>
+    <td align="center" width="50%"><strong>Projets_WJH</strong></td>
+    <td align="center" width="50%"><strong>SpectreAPT Web</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SpectresAPT/Projets_WJH">
+        <img src="assets/WJH.png" width="100%" height="200px" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://spectre-apt.vercel.app/">
+        <img src="assets/SpectreAPT.png" width="100%" height="200px" />
+      </a>
+    </td>
+  </tr>
+</table>
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 📊 Badges
 
-<div align="center">
-
-<pre><code>
-VS Code • Vim • Obsidian • C++ • C • Java • HTML • CSS • Linux • Red Hat • Git • GitLab
-</code></pre>
-
-<img src="https://skillicons.dev/icons?i=vscode,sublime,vercel,cpp,c,java,html,css,linux,redhat,git,gitlab&size=72" alt="Tools" />
-
-</div>
-
----
-
-## 🎯 Goal
-- Join 42 Angoulême
-- Strengthen low-level programming skills
-- Build reliable Linux-based systems
+![Profile Views](https://komarev.com/ghpvc/?username=m0bley-git&color=green&style=flat-square)
