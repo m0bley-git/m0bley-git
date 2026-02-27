@@ -1,6 +1,3 @@
-<h1 align="center">🖥️ Wilstan — Systems & Network Student</h1>
-
-
 ## 💻 Tech Stack
 ![Skills](https://skillicons.dev/icons?i=vscode,sublime,cpp,c,java,html,css,vercel,linux,debian,raspberrypi,git)
 
