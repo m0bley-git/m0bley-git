@@ -7,14 +7,14 @@
 ### Étudiant en BTS CIEL, spécialité systèmes et réseaux.
 #### J'apprends la programmation, l'administration de serveurs Linux et la gestion de réseaux.
 #### Je construis des petits projets techniques, je self-host mes services et j'explore le monde de l'open source.
-#### Toujours en train d'apprendre, toujours en train de bidouiller.
+#### Toujours en apprentissage, toujours en progression.
 #### 📬 [Laisse-moi un message via GitHub Discussion](https://github.com/m0bley-git/m0bley-git/discussions?discussions_q=category%3AGuestbook)
 
 ## English 🇬🇧
 ### BTS CIEL student, specialized in systems and networks.
 #### Learning programming, Linux server administration and network management.
 #### I build small technical projects, self-host my services and explore the open source world.
-#### Always learning, always tinkering.
+#### Always learning, always progressing.
 #### 📬 [Leave me a message via GitHub Discussion](https://github.com/m0bley-git/m0bley-git/discussions?discussions_q=category%3AGuestbook)
 
 ---
