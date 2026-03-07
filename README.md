@@ -1,5 +1,5 @@
 ## 💻 Tech Stack
-![Skills](https://skillicons.dev/icons?i=vscode,sublime,cpp,c,java,html,css,vercel,linux,debian,raspberrypi,git)
+![Skills](https://skillicons.dev/icons?i=vscode,sublime,cpp,c,java,html,css,cloudflare,vercel,linux,debian,raspberrypi,git)
 
 ---
 
