@@ -34,7 +34,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://spectre-apt.vercel.app/">
+      <a href="https://github.com/SpectresAPT/SpectreAPT-web">
         <img src="assets/SpectreAPT.png" width="100%" height="200px" />
       </a>
     </td>
