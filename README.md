@@ -7,24 +7,24 @@
 
 ### Étudiant en BTS CIEL — Systèmes & Réseaux
 
-<p style="font-size:17px; line-height:1.6;"><strong>
+<p style="font-size:17px; line-height:1.6;">
 Je me forme à la programmation, à l’administration Linux et aux infrastructures réseau.<br>
 Je conçois des projets techniques, déploie des services web et expérimente autour de l’open source.<br>
 Curieux, autonome et toujours en train d’apprendre.
-</p></strong>
+</p>
 
 📬 [Me contacter via GitHub Discussions](https://github.com/sawlvl/sawlvl/discussions?discussions_q=category%3AGuestbook)
 
 
 ## English 🇬🇧
 
-### BTS CIEL Student — Systems & Networks
+### Student in a BTS CIEL — Systems & Networks
 
-<p style="font-size:17px; line-height:1.6;"><strong>
-Training in programming, Linux system administration and networking.<br>
-I build technical projects, deploy web services and explore open-source technologies.<br>
-Always learning, always building.
-</p></strong>
+<p style="font-size:17px; line-height:1.6;">
+I am training in programming, Linux administration, and network infrastructures.<br>
+I design technical projects, deploy web services, and experiment with open-source technologies.<br>
+Curious, independent, and always learning.
+</p>
 
 📬 [Contact me via GitHub Discussions](https://github.com/sawlvl/sawlvl/discussions?discussions_q=category%3AGuestbook)
 
