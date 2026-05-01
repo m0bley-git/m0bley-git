@@ -1,20 +1,36 @@
 ## 💻 Tech Stack
-![Skills](https://skillicons.dev/icons?i=vscode,sublime,cpp,c,java,html,css,cloudflare,vercel,linux,debian,raspberrypi,git)
----
+
+![Skills](https://skillicons.dev/icons?i=idea,webstorm,java,html,css,javascript,bash,linux,debian,git)
+
+
 ## Français 🇫🇷
-### Étudiant en BTS CIEL, spécialité systèmes et réseaux.
-#### J'apprends la programmation, l'administration de serveurs Linux et la gestion de réseaux.
-#### Je développe de petits projets techniques, je déploie et héberge des sites web sur différentes plateformes, et j'explore le monde de l'open source.
-#### Toujours en apprentissage, toujours en progression.
-#### 📬 [Laisse-moi un message via GitHub Discussion](https://github.com/sawlvl/sawlvl/discussions?discussions_q=category%3AGuestbook)
+
+### Étudiant en BTS CIEL — Systèmes & Réseaux
+
+<p style="font-size:17px; line-height:1.6;">
+Je me forme à la programmation, à l’administration Linux et aux infrastructures réseau.<br>
+Je conçois des projets techniques, déploie des services web et expérimente autour de l’open source.<br>
+Curieux, autonome et toujours en train d’apprendre.
+</p>
+
+📬 [Me contacter via GitHub Discussions](https://github.com/sawlvl/sawlvl/discussions?discussions_q=category%3AGuestbook)
+
+
 ## English 🇬🇧
-### BTS CIEL student, specialized in systems and networks.
-#### Learning programming, Linux server administration and network management.
-#### I develop small technical projects, deploy and host websites on various platforms, and explore the open source world.
-#### Always learning, always progressing.
-#### 📬 [Leave me a message via GitHub Discussion](https://github.com/sawlvl/sawlvl/discussions?discussions_q=category%3AGuestbook)
----
+
+### BTS CIEL Student — Systems & Networks
+
+<p style="font-size:17px; line-height:1.6;">
+Training in programming, Linux system administration and networking.<br>
+I build technical projects, deploy web services and explore open-source technologies.<br>
+Always learning, always building.
+</p>
+
+📬 [Contact me via GitHub Discussions](https://github.com/sawlvl/sawlvl/discussions?discussions_q=category%3AGuestbook)
+
+
 ## 🔧 Projects
+
 <p align="center">
 <table width="80%" align="center">
   <tr>
@@ -29,7 +45,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/SpectresAPT/SpectreAPT-web">
-        <img src="assets/SpectreAPT.png" width="100%" height="200px" />
+        <img src="assets/SPECTRE-APT.png" width="100%" height="200px" />
       </a>
     </td>
   </tr>
@@ -45,13 +61,14 @@
     </td>
     <td align="center">
       <a href="https://github.com/sawlvl/Gravity-Z">
-        <img src="assets/GravityZ.png" width="100%" height="200px" />
+        <img src="assets/Gravity-Z.png" width="100%" height="200px" />
       </a>
     </td>
   </tr>
 </table>
 </p>
- 
+
+
 ## 📊 Badges
-![Profile Views](https://komarev.com/ghpvc/?username=sawlvl&color=green&style=flat-square)
-![3D Contrib](profile-3d-contrib/profile-night-rainbow.svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sawlvl\&color=green\&style=flat-square)
