@@ -13,7 +13,7 @@ Je conçois des projets techniques, déploie des services web et expérimente au
 Curieux, autonome et toujours en train d’apprendre.
 </p>
 
-📬 [Me contacter via GitHub Discussions](https://github.com/sawlvl/sawlvl/discussions?discussions_q=category%3AGuestbook)
+#### 📬 [Me contacter via GitHub Discussions](https://github.com/sawlvl/sawlvl/discussions?discussions_q=category%3AGuestbook)
 
 
 ## English 🇬🇧
@@ -26,7 +26,7 @@ I design technical projects, deploy web services, and experiment with open-sourc
 Curious, independent, and always learning.
 </p>
 
-📬 [Contact me via GitHub Discussions](https://github.com/sawlvl/sawlvl/discussions?discussions_q=category%3AGuestbook)
+#### 📬 [Contact me via GitHub Discussions](https://github.com/sawlvl/sawlvl/discussions?discussions_q=category%3AGuestbook)
 
 
 ## 🔧 Projects
