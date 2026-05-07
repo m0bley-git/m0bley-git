@@ -1,6 +1,6 @@
 ## 💻 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=idea,webstorm,java,html,css,javascript,tailwind,bash,linux,debian,git)
+![Skills](https://skillicons.dev/icons?i=idea,webstorm,java,html,css,javascript,tailwind,bash,linux,debian,gitlab,git)
 
 
 ## Français 🇫🇷
