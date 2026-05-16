@@ -13,7 +13,7 @@ Je conçois des projets techniques, déploie des services web et expérimente au
 Curieux, autonome et toujours en train d’apprendre.
 </p>
 
-#### 📬 [Me contacter via GitHub Discussions](https://github.com/sawlvl/sawlvl/discussions?discussions_q=category%3AGuestbook)
+#### 📬 [Me contacter via GitHub Discussions](https://github.com/wilstan-sanquer/wilstan-sanquer/discussions?discussions_q=category%3AGuestbook)
 
 
 ## English 🇬🇧
@@ -26,7 +26,7 @@ I design technical projects, deploy web services, and experiment with open-sourc
 Curious, independent, and always learning.
 </p>
 
-#### 📬 [Contact me via GitHub Discussions](https://github.com/sawlvl/sawlvl/discussions?discussions_q=category%3AGuestbook)
+#### 📬 [Contact me via GitHub Discussions](https://github.com/wilstan-sanquer/wilstan-sanquer/discussions?discussions_q=category%3AGuestbook)
 
 
 ## 🔧 Projects
@@ -55,12 +55,12 @@ Curious, independent, and always learning.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/sawlvl/SquidTchat">
+      <a href="https://github.com/wilstan-sanquer/SquidTchat">
         <img src="assets/SquidTchat.png" width="100%" height="200px" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/sawlvl/Gravity-Z">
+      <a href="https://github.com/wilstan-sanquer/Gravity-Z">
         <img src="assets/Gravity-Z.png" width="100%" height="200px" />
       </a>
     </td>
@@ -71,4 +71,4 @@ Curious, independent, and always learning.
 
 ## 📊 Badges
 
-![Profile Views](https://komarev.com/ghpvc/?username=sawlvl\&color=green\&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=wilstan-sanquer\&color=green\&style=flat-square)
