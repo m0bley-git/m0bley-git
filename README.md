@@ -107,8 +107,7 @@ Configuration réseau, routage et administration d'équipements Cisco.
 ---
 
 ## ☕ Support
-
-[![Buy me a coffee](https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/TON_LIEN_ICI "Buy me a coffee")
+[![Buy me a coffee](https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/wilstansanquer "Buy me a coffee")
 
 ---
 
