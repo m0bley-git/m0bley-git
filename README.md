@@ -3,8 +3,9 @@
 Salut, moi c’est Wilstan.  
 Basé en France. Étudiant en BTS CIEL.
 
-Passionné par la programmation, l'administration Linux et les infrastructures réseau.  
-Curieux, autonome et toujours en quête de nouvelles connaissances.
+Je me forme à la programmation, à l’administration Linux et aux infrastructures réseau.  
+Je conçois des projets techniques, déploie des services web et expérimente autour de l’open source.<br>
+Curieux, autonome et toujours en train d’apprendre.
 
 
 <div align="center">
