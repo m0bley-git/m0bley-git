@@ -1,74 +1,117 @@
-## 💻 Tech Stack
+# 🧠 Profil
 
-![Skills](https://skillicons.dev/icons?i=sublime,vscode,java,html,css,javascript,bash,linux,debian,gitlab,git)
+Salut, moi c’est Wilstan.  
+Basé en France. Étudiant en BTS CIEL.
 
-
-## Français 🇫🇷
-
-### Étudiant en BTS CIEL — Systèmes & Réseaux
-
-<p style="font-size:17px; line-height:1.6;">
-Je me forme à la programmation, à l’administration Linux et aux infrastructures réseau.<br>
-Je conçois des projets techniques, déploie des services web et expérimente autour de l’open source.<br>
-Curieux, autonome et toujours en train d’apprendre.
-</p>
-
-#### 📬 [Me contacter via GitHub Discussions](https://github.com/wilstan-sanquer/wilstan-sanquer/discussions?discussions_q=category%3AGuestbook)
+Passionné par la programmation, l'administration Linux et les infrastructures réseau.  
+Curieux, autonome et toujours en quête de nouvelles connaissances.
 
 
-## English 🇬🇧
+<div align="center">
 
-### Student in a BTS CIEL — Systems & Networks
+<a href="README.md">🇫🇷 FR</a> • <a href="README_EN.md">🇬🇧 EN</a>
 
-<p style="font-size:17px; line-height:1.6;">
-I am training in programming, Linux administration, and network infrastructures.<br>
-I design technical projects, deploy web services, and experiment with open-source technologies.<br>
-Curious, independent, and always learning.
-</p>
-
-#### 📬 [Contact me via GitHub Discussions](https://github.com/wilstan-sanquer/wilstan-sanquer/discussions?discussions_q=category%3AGuestbook)
+</div>
 
 
-## 🔧 Projects
+</div>
 
-<p align="center">
-<table width="80%" align="center">
-  <tr>
-    <td align="center" width="50%"><strong>Projets_WJH</strong></td>
-    <td align="center" width="50%"><strong>SpectreAPT Web</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/SpectresAPT/Projets_WJH">
-        <img src="assets/WJH.png" width="100%" height="200px" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/SpectresAPT/SpectreAPT-web">
-        <img src="assets/SPECTRE-APT.png" width="100%" height="200px" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%"><strong>SquidTchat</strong></td>
-    <td align="center" width="50%"><strong>Gravity-Z</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/wilstan-sanquer/SquidTchat">
-        <img src="assets/SquidTchat.png" width="100%" height="200px" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/wilstan-sanquer/Gravity-Z">
-        <img src="assets/Gravity-Z.png" width="100%" height="200px" />
-      </a>
-    </td>
-  </tr>
-</table>
-</p>
+---
 
 
-## 📊 Badges
+## 💻 Ce que je fais
 
-![Profile Views](https://komarev.com/ghpvc/?username=wilstan-sanquer\&color=green\&style=flat-square)
+### 🌐 **Front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SFRNTDU8L3RpdGxlPjxwYXRoIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTc3IDI0bC04LjU2NC0yLjQzOEwxLjUgMHptNy4wMzEgOS43NWwtLjIzMi0yLjcxOCAxMC4wNTkuMDAzLjIzLTIuNjIyTDUuNDEyIDQuNDFsLjY5OCA4LjAxaDkuMTI2bC0uMzI2IDMuNDI2LTIuOTEuODA0LTIuOTU1LS44MS0uMTg4LTIuMTFINi4yNDhsLjMzIDQuMTcxTDEyIDE5LjM1MWw1LjM3OS0xLjQ0My43NDQtOC4xNTdIOC41MzF6Ii8+PC9zdmc+&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Q1NTPC90aXRsZT48cGF0aCBkPSJNMCAwdjIwLjE2QTMuODQgMy44NCAwIDAgMCAzLjg0IDI0aDE2LjMyQTMuODQgMy44NCAwIDAgMCAyNCAyMC4xNlYzLjg0QTMuODQgMy44NCAwIDAgMCAyMC4xNiAwWm0xNC4yNTYgMTMuMDhjMS41NiAwIDIuMjggMS4wOCAyLjMwNCAyLjY0aC0xLjYwOGMuMDI0LS4yODgtLjA0OC0uNi0uMTQ0LS44NC0uMDk2LS4xOTItLjI4OC0uMjY0LS41NTItLjI2NC0uNDU2IDAtLjY5Ni4yNjQtLjY5Ni44NC0uMDI0LjU3Ni4yODguODg4Ljc2OCAxLjA4LjcyLjI4OCAxLjYwOC43NDQgMS45MiAxLjI5NnEuNDMyLjY0OC40MzIgMS42NTZjMCAxLjYwOC0uOTEyIDIuNTkyLTIuNDk2IDIuNTkyLTEuNjU2IDAtMi40LTEuMDMyLTIuNDI0LTIuNjg4aDEuNjhjMCAuNzkyLjI2NCAxLjE3Ni43OTIgMS4xNzYuMjY0IDAgLjQ1Ni0uMDcyLjU1Mi0uMjQuMTkyLS4zMTIuMjQtMS4xNzYtLjA0OC0xLjUxMi0uMzEyLS40MDgtLjkxMi0uNi0xLjMyLS44MTZxLS44MjgtLjM5Ni0xLjIyNC0uOTM2Yy0uMjQtLjM2LS4zNi0uODg4LS4zNi0xLjUzNiAwLTEuNDQuOTM2LTIuNDcyIDIuNDI0LTIuNDQ4bTUuNCAwYzEuNTg0IDAgMi4zMDQgMS4wOCAyLjMyOCAyLjY0aC0xLjYwOGMwLS4yODgtLjA0OC0uNi0uMTY4LS44NC0uMDk2LS4xOTItLjI2NC0uMjY0LS41MjgtLjI2NC0uNDggMC0uNzIuMjY0LS43Mi44NHMuMjg4Ljg4OC43OTIgMS4wOGMuNjk2LjI4OCAxLjYwOC43NDQgMS45MiAxLjI5Ni4yNjQuNDMyLjQwOC45ODQuNDA4IDEuNjU2LjAyNCAxLjYwOC0uODg4IDIuNTkyLTIuNDcyIDIuNTkyLTEuNjggMC0yLjQyNC0xLjA1Ni0yLjQ0OC0yLjY4OGgxLjY4YzAgLjc0NC4yNjQgMS4xNzYuNzkyIDEuMTc2LjI2NCAwIC40NTYtLjA3Mi41NTItLjI0LjIxNi0uMzEyLjI2NC0xLjE3Ni0uMDQ4LTEuNTEyLS4yODgtLjQwOC0uODg4LS42LTEuMzItLjgxNi0uNTUyLS4yNjQtLjk2LS41NzYtMS4yLS45MzZzLS4zNi0uODg4LS4zNi0xLjUzNmMtLjAyNC0xLjQ0LjkxMi0yLjQ3MiAyLjQtMi40NDhtLTExLjAzMS4wMThjLjcxMS0uMDA2IDEuNDE5LjE5OCAxLjgzOS42My40MzIuNDMyLjY3MiAxLjEyOC42NDggMS45OTJIOS4zMzZjLjAyNC0uNDU2LS4wOTYtLjc5Mi0uNDMyLS45Ni0uMzEyLS4xNDQtLjc2OC0uMDQ4LS44ODguMjQtLjEyLjI2NC0uMTkyLjU3Ni0uMTY4Ljg2NHYzLjUwNGMwIC43NDQuMjY0IDEuMTI4Ljc2OCAxLjEyOGEuNjUuNjUgMCAwIDAgLjU1Mi0uMjY0Yy4xNjgtLjI0LjE5Mi0uNTUyLjE2OC0uODRoMS43NzZjLjA5NiAxLjYzMi0uOTg0IDIuNzEyLTIuNTY4IDIuNjg4LTEuNTM2IDAtMi40OTYtLjg2NC0yLjQ3Mi0yLjQ3MnYtNC4wMzJjMC0uODE2LjI0LTEuNDQuNjk2LTEuODQ4LjQzMi0uNDA4IDEuMTQ2LS42MjQgMS44NTctLjYzIi8+PC9zdmc+&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SmF2YVNjcmlwdDwvdGl0bGU+PHBhdGggZD0iTTAgMGgyNHYyNEgwVjB6bTIyLjAzNCAxOC4yNzZjLS4xNzUtMS4wOTUtLjg4OC0yLjAxNS0zLjAwMy0yLjg3My0uNzM2LS4zNDUtMS41NTQtLjU4NS0xLjc5Ny0xLjE0LS4wOTEtLjMzLS4xMDUtLjUxLS4wNDYtLjcwNS4xNS0uNjQ2LjkxNS0uODQgMS41MTUtLjY2LjM5LjEyLjc1LjQyLjk3Ni45IDEuMDM0LS42NzYgMS4wMzQtLjY3NiAxLjc1NS0xLjEyNS0uMjctLjQyLS40MDQtLjYwMS0uNTg2LS43OC0uNjMtLjcwNS0xLjQ2OS0xLjA2NS0yLjgzNC0xLjAzNGwtLjcwNS4wODljLS42NzYuMTY1LTEuMzIuNTI1LTEuNzEgMS4wMDUtMS4xNCAxLjI5MS0uODExIDMuNTQxLjU2OSA0LjQ3MSAxLjM2NSAxLjAyIDMuMzYxIDEuMjQ0IDMuNjE2IDIuMjA1LjI0IDEuMTctLjg3IDEuNTQ1LTEuOTY2IDEuNDEtLjgxMS0uMTgtMS4yNi0uNTg2LTEuNzU1LTEuMzM2bC0xLjgzIDEuMDUxYy4yMS40OC40NS42ODkuODEgMS4xMDkgMS43NCAxLjc1NiA2LjA5IDEuNjY2IDYuODcxLTEuMDA0LjAyOS0uMDkuMjQtLjcwNS4wNzQtMS42NWwuMDQ2LjA2N3ptLTguOTgzLTcuMjQ1aC0yLjI0OGMwIDEuOTM4LS4wMDkgMy44NjQtLjAwOSA1LjgwNSAwIDEuMjMyLjA2MyAyLjM2My0uMTM4IDIuNzExLS4zMy42ODktMS4xOC42MDEtMS41NjYuNDgtLjM5Ni0uMTk2LS41OTctLjQ2Ni0uODMtLjg1NS0uMDYzLS4xMDUtLjExLS4xOTYtLjEyNy0uMTk2bC0xLjgyNSAxLjEyNWMuMzA1LjYzLjc1IDEuMTcyIDEuMzI0IDEuNTE3Ljg1NS41MSAyLjAwNC42NzUgMy4yMDcuNDA1Ljc4My0uMjI2IDEuNDU4LS42OTEgMS44MTEtMS40MTEuNTEtLjkzLjQwMi0yLjA3LjM5Ny0zLjM0Ni4wMTItMi4wNTQgMC00LjEwOSAwLTYuMTc5bC4wMDQtLjA1NnoiLz48L3N2Zz4=&logoColor=black)
+
+Conception d'interfaces web et déploiement de services.
+
+### ⚙️ **Back-end & Scripting**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiAgPHBhdGggZD0iTTguODUxIDE4LjU2cy0uOTE3LjUzNC42NTMuNzE0YzEuOTAyLjIxOCAyLjg3NC4xODcgNC45NjktLjIxMSAwIDAgLjU1Mi4zNDYgMS4zMjEuNjQ2LTQuNjk5IDIuMDEzLTEwLjYzMy0uMTE4LTYuOTQzLTEuMTQ5TTguMjc2IDE1LjkzM3MtMS4wMjguNzYxLjU0Mi45MjRjMi4wMzIuMjA5IDMuNjM2LjIyNyA2LjQxMy0uMzA4IDAgMCAuMzg0LjM4OS45ODcuNjAyLTUuNjc5IDEuNjYxLTEyLjAwNy4xMy03Ljk0Mi0xLjIxOE0xMy4xMTYgMTEuNDc1YzEuMTU4IDEuMzMzLS4zMDQgMi41MzMtLjMwNCAyLjUzM3MyLjkzOS0xLjUxOCAxLjU4OS0zLjQxOGMtMS4yNjEtMS43NzItMi4yMjgtMi42NTIgMy4wMDctNS42ODggMCAwLTguMjE2IDIuMDUxLTQuMjkyIDYuNTczTTE5LjMzIDIwLjUwNHMuNjc5LjU1OS0uNzQ3Ljk5MWMtMi43MTIuODIyLTExLjI4OCAxLjA2OS0xMy42NjkuMDMzLS44NTYtLjM3My43NS0uODkgMS4yNTQtLjk5OC41MjctLjExNC44MjgtLjA5My44MjgtLjA5My0uOTUzLS42NzEtNi4xNTYgMS4zMTctMi42NDMgMS44ODcgOS41OCAxLjU1MyAxNy40NjItLjcgMTQuOTc3LTEuODJNOS4yOTIgMTMuMjFzLTQuMzYyIDEuMDM2LTEuNTQ0IDEuNDEyYzEuMTg5LjE1OSAzLjU2MS4xMjMgNS43Ny0uMDYyIDEuODA2LS4xNTIgMy42MTgtLjQ3NyAzLjYxOC0uNDc3cy0uNjM3LjI3Mi0xLjA5OC41ODdjLTQuNDI5IDEuMTY1LTEyLjk4MS42MjMtMTAuNTIyLS41NjggMi4wODItMS4wMDYgMy43NzYtLjg5MiAzLjc3Ni0uODkyTTE3LjExNiAxNy41ODRjNC41MDMtMi4zNCAyLjQyMS00LjU4OS45NjgtNC4yODUtLjM1NS4wNzQtLjUxNS4xMzgtLjUxNS4xMzhzLjEzMi0uMjA3LjM4NS0uMjk3YzIuODc1LTEuMDExIDUuMDg2IDIuOTgxLS45MjggNC41NjIgMCAuMDAxLjA3LS4wNjIuMDktLjExOE0xNC40MDEgMHMyLjQ5NCAyLjQ5NC0yLjM2NSA2LjMzYy0zLjg5NiAzLjA3Ny0uODg4IDQuODMyLS4wMDEgNi44MzYtMi4yNzQtMi4wNTMtMy45NDMtMy44NTgtMi44MjQtNS41MzkgMS42NDQtMi40NjkgNi4xOTctMy42NjUgNS4xOS03LjYyN005LjczNCAyMy45MjRjNC4zMjIuMjc3IDEwLjk1OS0uMTUzIDExLjExNi0yLjE5OCAwIDAtLjMwMi43NzUtMy41NzIgMS4zOTEtMy42ODguNjk0LTguMjM5LjYxMy0xMC45MzcuMTY4IDAgMCAuNTUzLjQ1NyAzLjM5My42MzkiLz4KPC9zdmc+Cg==&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-11111?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R05VIEJhc2g8L3RpdGxlPjxwYXRoIGQ9Ik0yMS4wMzggNC45bC03LjU3Ny00LjQ5OEMxMy4wMDkuMTM0IDEyLjUwNSAwIDEyIDBjLS41MDUgMC0xLjAwOS4xMzQtMS40NjIuNDAzTDIuOTYxIDQuOUMyLjA1NyA1LjQzNyAxLjUgNi40MjkgMS41IDcuNTAzdjguOTk1YzAgMS4wNzMuNTU3IDIuMDY2IDEuNDYyIDIuNjAzbDcuNTc3IDQuNDk3QzEwLjk5MSAyMy44NjYgMTEuNDk1IDI0IDEyIDI0YzMuNTA1IDAgMS4wMDktLjEzNCAxLjQ2MS0uNDAybDcuNTc3LTQuNDk3Yy45MDQtLjUzNyAxLjQ2Mi0xLjUyOSAxLjQ2Mi0yLjYwM1Y3LjUwM0MyMi41IDYuNDI5IDIxLjk0MyA1LjQzNyAyMS4wMzggNC45ek0xNS4xNyAxOC45NDZsLjAxMy42NDZjLjAwMS4wNzgtLjA1LjE2Ny0uMTExLjE5OGwtLjM4My4yMmMtLjA2MS4wMzEtLjExMS0uMDA3LS4xMTItLjA4NUwxNC41NyAxOS4yOWMtLjMyOC4xMzYtLjY2LjE2OS0uODcyLjA4NC0uMDQtLjAxNi0uMDU3LS4wNzUtLjA0MS0uMTQybC4xMzktLjU4NGMuMDExLS4wNDYuMDM2LS4wOTIuMDY5LS4xMjEuMDEyLS4wMTEuMDI0LS4wMi4wMzYtLjAyNi4wMjItLjAxMS4wNDMtLjAxNC4wNjItLjAwNi4yMjkuMDc3LjUyMS4wNDEuODAyLS4xMDEuMzU3LS4xODEuNTk2LS41NDUuNTkyLS45MDctLjAwMy0uMzI4LS4xODEtLjQ2NS0uNjEzLS40NjgtLjU1LjAwMS0xLjA2NC0uMTA3LTEuMDcyLS45MTctLjAwNy0uNjY3LjM0LTEuMzYxLjg4OS0xLjhsLS4wMDctLjY1MmMtLjAwMS0uMDguMDQ4LS4xNjguMTExLS4ybC4zNy0uMjM2Yy4wNjEtLjAzMS4xMTEuMDA3LjExMi4wODdsLjAwNi42NTNjLjI3My0uMTA5LjUxMS0uMTM4LjcyNi0uMDg4LjA0Ny4wMTIuMDY3LjA3Ni4wNDguMTUxbC0uMTQ0LjU3OGMtLjAxMS4wNDQtLjAzNi4wODgtLjA2NS4xMTYtLjAxMi4wMTItLjAyNS4wMjEtLjAzOC4wMjgtLjAxOS4wMS0uMDM4LjAxMy0uMDU3LjAwOS0uMDk4LS4wMjItLjMzMi0uMDczLS42OTkuMTEzLS4zODUuMTk1LS41Mi41My0uNTE3Ljc3OC4wMDMuMjk3LjE1NS4zODcuNjgxLjM5Ni43LjAxMiAxLjAwMy4zMTggMS4wMSAxLjAyM0MxNi4xMDUgMTcuNzQ3IDE1LjczNiAxOC40OTEgMTUuMTcgMTguOTQ2ek0xOS4xNDMgMTcuODU5YzAgLjA2LS4wMDguMTE2LS4wNTguMTQ1bC0xLjkxNiAxLjE2NGMtLjA1LjAyOS0uMDkuMDA0LS4wOS0uMDU2di0uNDk0YzAtLjA2LjAzNy0uMDkzLjA4Ny0uMTIybDEuODg3LTEuMTI5Yy4wNS0uMDI5LjA5LS4wMDQuMDkuMDU2VjE3Ljg1OXpNMjAuNDU5IDYuNzk3bC03LjE2OCA0LjQyN2MtLjg5NC41MjMtMS41NTMgMS4xMDktMS41NTMgMi4xODd2OC44MzNjMCAuNjQ1LjI2IDEuMDYzLjY2IDEuMTg0LS4xMzEuMDIzLS4yNjQuMDM5LS4zOTguMDM5LS40MiAwLS44MzMtLjExNC0xLjE5Ny0uMzNMMy4yMjYgMTguNjRjLS43NDEtLjQ0LTEuMjAxLTEuMjYxLTEuMjAxLTIuMTQyVjcuNTAzYzAtLjg4MS40Ni0xLjcwMiAxLjIwMS0yLjE0Mmw3LjU3Ny00LjQ5OGMuMzYzLS4yMTYuNzc3LS4zMyAxLjE5Ny0uMzMuNDE5IDAgLjgzMy4xMTQgMS4xOTcuMzNsNy41NzcgNC40OThjLjYyNC4zNzEgMS4wNDYgMS4wMTMgMS4xNjQgMS43MzJDMjEuNjg2IDYuNTU3IDIxLjEyIDYuNDExIDIwLjQ1OSA2Ljc5N3oiLz48L3N2Zz4=&logoColor=white)
+
+Automatisation, scripts système et expérimentation autour de l'open source.
+
+### 🐧 **Administration Linux**
+
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+
+Administration de systèmes Linux et gestion d'infrastructures.
+
+### 🌐 **Réseaux**
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Q2lzY288L3RpdGxlPjxwYXRoIGQ9Ik0xNi4zMzEgMTguMTcxVjE3LjA2bC0uMDIyLjAxYy0uMjUuMTIxLS41MjIuMTktLjgwMS4yMDNhMS4xODYgMS4xODYgMCAwMS0uODA2LS4yMzcgMS4wMzggMS4wMzggMCAwMS0uMzUyLS40OTggMS4yMSAxLjIxIDAgMDEtLjAyMy0uNjY3Yy4wNTItLjIyNS4xNzgtLjQyNi4zNTctLjU2OS4xNi0uMTM0LjM1NS0uMjE4LjU2Mi0uMjQyYTEuODUgMS44NSAwIDAxMS4wNjEuMTk4bC4wMjQuMDEzdi0xLjExN2wtLjA1MS0uMDE0YTIuODYyIDIuODYyIDAgMDAtMS4wMTEtLjEzMiAyLjM0IDIuMzQgMCAwMC0uOTAzLjIwNiAyLjA3NiAyLjA3NiAwIDAwLS43NTMuNTU3IDIuMjIxIDIuMjIxIDAgMDAtLjA0IDIuNzA1Yy4yOTUuMzc4LjcwOS42NDUgMS4xNzUuNzU2LjQ5MS4xMiAxLjAwNi4xMDIgMS40ODctLjA1MmwuMDgyLS4wMjNNNS4zMzYgMTguMTcxVjE3LjA2bC0uMDIyLjAxYy0uMjUuMTIxLS41MjIuMTktLjgwMS4yMDNhMS4xODMgMS4xODMgMCAwMS0uODA2LS4yMzcgMS4wMyAxLjAzIDAgMDEtLjM1MS0uNDk4IDEuMjAyIDEuMjAyIDAgMDEtLjAyNC0uNjY3Yy4wNTItLjIyNS4xNzctLjQyNi4zNTctLjU2OS4xNi0uMTM0LjM1NS0uMjE4LjU2Mi0uMjQyYTEuODUgMS44NSAwIDAxMS4wNjEuMTk4bC4wMjQuMDEzdi0xLjExN2wtLjA1MS0uMDE0YTIuODYyIDIuODYyIDAgMDAtMS4wMTEtLjEzMiAyLjM0NCAyLjM0NCAwIDAwLS45MDMuMjA2IDIuMDc2IDIuMDc2IDAgMDAtLjc0LjU3MSAyLjIyNCAyLjIyNCAwIDAwLS4wNDEgMi43MDUgMi4xMSAyLjExIDAgMDAxLjE3Ni43NTZjLjQ5MS4xMiAxLjAwNS4xMDIgMS40ODctLjA1MmwuMDgzLS4wMjNNOS4yNiAxNy4yNDlsLS4wMDQuOTU3LjA3LjAxMmMuMjIuMDQxLjQ0MS4wNjkuNjY0LjA4NS4xOTUuMDE5LjM5MS4wMjIuNTg3LjAxMi4xODctLjAxNC4zNzItLjA0OS41NTEtLjEwNC4yMS0uMDYuNDA1LS4xNjMuNTcxLS4zMDVhMS4xNiAxLjE2IDAgMDAuMzMzLS40NzggMS4zMSAxLjMxIDAgMDAtLjAwNy0uOTYgMS4wNjggMS4wNjggMCAwMC0uMjk4LS40MTQgMS4yNjEgMS4yNjEgMCAwMC0uNDM4LS4yNTVsLS43MjItLjI2OGEuMzg4LjM4OCAwIDAxLS4xOTctLjE4OC4yNDUuMjQ1IDAgMDEuMDA4LS4yMTkuMzgyLjM4MiAwIDAxLjE1NC0uMTQyLjc5OC43OTggMCAwMS4yNTctLjA3NGMuMTUzLS4wMjIuMzA4LS4wMjEuNDYuMDA1LjE4LjAyLjM1OC4wNTEuNTMzLjA5NmwuMDM4LjAwOHYtLjg4M2wtLjA2OS0uMDE1YTQuNzQ5IDQuNzQ5IDAgMDAtLjU0My0uMDk3IDIuODQ0IDIuODQ0IDAgMDAtLjcxNC0uMDAzYy0uMy4wMjctLjU4NS4xNDMtLjgyMS4zMy0uMTYuMTI2LS4yODEuMjkzLS4zNTEuNDg0LS4xMDQuMjktLjEwNS42MDggMCAuODk5LjA1NC4xNDUuMTQuMjc0LjI1Mi4zODEuMDk3LjA5My4yMDcuMTczLjMyNy4yMzYuMTU3LjA4NC4zMjQuMTQ5LjQ5Ny4xOTUuMDU3LjAxNy4xMTQuMDM1LjE3LjA1NGwuMDg1LjAzbC4wMjQuMDFjLjA4NC4wMy4xNjIuMDc4LjIyNi4xNC4wNDUuMDQyLjA4LjA5NC4xMDEuMTUxYS4zMjUuMzI1IDAgMDEuMDAxLjE2MS4zMzkuMzM5IDAgMDEtLjE2Ni4xOTguODU2Ljg1NiAwIDAxLS4yNzUuMDg2IDIuMDMyIDIuMDMyIDAgMDEtLjQyNy4wMjEgNS4yMDggNS4yMDggMCAwMS0uNTU3LS4wNzQgOS4xOTUgOS4xOTUgMCAwMS0uMjg3LS4wNjdsLS4wMzMtLjAwNnptLTIuNDc1Ljk5NWgxLjA1di00LjE2N0g2Ljc4NXY0LjE2N3ptMTIuMTYyLTIuOTM2YTEuMDk1IDEuMDk1IDAgMDExLjU0MS4xNTggMS4wOTQgMS4wOTQgMCAwMS0uMTU3IDEuNTQxbC0uMDE3LjAxNGExLjA5NiAxLjA5NiAwIDAxLTEuMzY3LTEuNzEzbS0xLjUyNS44NTRhMi4xOTMgMi4xOTMgMCAwMDIuNjY2IDIuMTA3IDIuMTM5IDIuMTM5IDAgMDAuNzAxLTMuOTM3IDIuMjA3IDIuMjA3IDAgMDAtMy4zNjcgMS44M00yMi45NjEgMTAuNzI4YS41Mi41MiAwIDAwMS4wMzkgMFY5LjU3M2EuNTIuNTIgMCAwMC0xLjAzOSAwdjEuMTU1TTIwLjExNyAxMC43MjhhLjUyMi41MjIgMCAwMDEuMDQxIDBWOC4xMzlhLjUyMS41MjEgMCAwMC0xLjA0IDB2Mi41ODlNMTcuMjMxIDExLjc3MWEuNTIxLjUyMSAwIDAwMS4wMzkgMFY2LjE3YS41Mi41MiAwIDAwLTEuMDM5IDB2NS42MDFNMTQuMzkzIDEwLjcyOGEuNTIxLjUyMSAwIDAwMS4wNCAwVjguMTM5YS41Mi41MiAwIDAwLTEuMDM5IDB2Mi41ODlNMTEuNDk0IDEwLjcyOGEuNTIyLjUyMiAwIDAwMS4wMzkgMFY5LjU3M2EuNTIuNTIgMCAwMC0xLjAzOSAwdjEuMTU1TTguNjI0IDEwLjcyOGEuNTIuNTIgMCAwMDEuMDM5IDBWOC4xMzlhLjUyLjUyIDAgMDAtMS4wMzkgMHYyLjU4OU01LjczNyAxMS43NzFhLjUyLjUyIDAgMDAxLjAzOSAwVjYuMTdhLjUyLjUyIDAgMDAtMS4wMzkgMHY1LjYwMU0yLjg3NiAxMC43MjhhLjUyMi41MjIgMCAwMDEuMDQgMFY4LjEzOWEuNTIuNTIgMCAwMC0xLjAzOSAwdjIuNTg5TTAgMTAuNzI4YS41MjEuNTIxIDAgMDAxLjAzOSAwVjkuNTczYS41Mi41MiAwIDAwLTEuMDM5IDB2MS4xNTUiLz48L3N2Zz4=&logoColor=white)
+
+Configuration réseau, routage et administration d'équipements Cisco.
+
+### 🛠️ **Outils**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-8034A9?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPgo=&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublimetext&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiAgPCEtLSBHcmVlbiB0b3AgLS0+CiAgPHBhdGggZD0iTTEyIDBMMiA1LjV2LjVMMTIgMTIgMjIgNnoiIGZpbGw9IiM4NEMzMjgiLz4KICA8IS0tIEJsdWUgcmlnaHQgLS0+CiAgPHBhdGggZD0iTTIyIDZsLTEwIDZ2MTJsMTAtNnoiIGZpbGw9IiMwRDhEQzQiLz4KICA8IS0tIFBpbmsvUmVkIGxlZnQgLS0+CiAgPHBhdGggZD0iTTIgNnYxMmwxMCA2VjEyeiIgZmlsbD0iI0Q0MTY0QiIvPgogIDwhLS0gTGlnaHQgY2VudGVyIGhpZ2hsaWdodCAtLT4KICA8cGF0aCBkPSJNMTIgMi41TDQgN3YxMGw4IDQuNSA4LTQuNVY3eiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC4xNSIvPgo8L3N2Zz4K&logoColor=white)
+![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=flat&logo=bitwarden&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat&logo=linear&logoColor=white)
+
+
+
+---
+
+<details open>
+  <summary><h2>📘 Mes projets open source</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/SpectresAPT/Projets_WJH"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SpectresAPT&repo=Projets_WJH&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Projets_WJH"></a>
+    <a href="https://github.com/SpectresAPT/SpectreAPT-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SpectresAPT&repo=SpectreAPT-web&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SpectreAPT Web"></a>
+    <a href="https://github.com/wilstan-sanquer/SquidTchat"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wilstan-sanquer&repo=SquidTchat&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SquidTchat"></a>
+    <a href="https://github.com/wilstan-sanquer/Gravity-Z"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wilstan-sanquer&repo=Gravity-Z&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Gravity-Z"></a>
+  </p>
+
+  <a href="https://github.com/wilstan-sanquer?tab=repositories&sort=stargazers"><img alt="Tous mes dépôts" title="Tous mes dépôts" src="https://custom-icon-badges.demolab.com/badge/-Tous%20mes%20dépôts-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
+---
+
+
+## 🏫 Formation
+
+🎓 **BTS CIEL** — Cybersécurité, Informatique et réseaux, Électronique  
+*Option IR — Informatique et Réseaux*
+
+🎓 **Bac Professionnel Systèmes Numériques (SN)**  
+*Option RISC — Réseaux Informatiques et Systèmes Communicants*
+
+
+---
+
+## 🖊️ Quelques valeurs
+
+- *Comprendre avant d'utiliser — l'IA est un outil, pas un raccourci*
+- *Apprendre en faisant, pas en regardant*
+- *Tester, casser, comprendre et réparer*
+
+---
+
+## 📊 Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=wilstan-sanquer&color=green&style=flat-square)
+
+---
+
+## ☕ Support
+
+[![Buy me a coffee](https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/TON_LIEN_ICI "Buy me a coffee")
+
+---
+
+📬 **Me contacter**
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)
