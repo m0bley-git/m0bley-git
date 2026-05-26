@@ -52,7 +52,7 @@ Network setup, routing, and Cisco equipment administration.
 
 ### 🛠️ **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-8034A9?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPgo=&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublimetext&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiAgPCEtLSBHcmVlbiB0b3AgLS0+CiAgPHBhdGggZD0iTTEyIDBMMiA1LjV2LjVMMTIgMTIgMjIgNnoiIGZpbGw9IiM4NEMzMjgiLz4KICA8IS0tIEJsdWUgcmlnaHQgLS0+CiAgPHBhdGggZD0iTTIyIDZsLTEwIDZ2MTJsMTAtNnoiIGZpbGw9IiMwRDhEQzQiLz4KICA8IS0tIFBpbmsvUmVkIGxlZnQgLS0+CiAgPHBhdGggZD0iTTIgNnYxMmwxMCA2VjEyeiIgZmlsbD0iI0Q0MTY0QiIvPgogIDwhLS0gTGlnaHQgY2VudGVyIGhpZ2hsaWdodCAtLT4KICA8cGF0aCBkPSJNMTIgMi41TDQgN3YxMGw4IDQuNSA4LTQuNVY3eiIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iMC4xNSIvPgo8L3N2Zz4K&logoColor=white)
@@ -101,12 +101,6 @@ Network setup, routing, and Cisco equipment administration.
 ## 📊 Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wilstan-sanquer&color=green&style=flat-square)
-
----
-
-## ☕ Support
-
-[![Buy me a coffee](https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/wilstansanquer "Buy me a coffee")
 
 ---
 
