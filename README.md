@@ -108,7 +108,5 @@ Configuration réseau, routage et administration d'équipements Cisco.
 
 📬 **Me contacter**
 
-📬 **Me contacter**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilstan-sanquer/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:wilstan.sanquer@outlook.fr)
