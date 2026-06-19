@@ -29,13 +29,13 @@ Mes langages de prédilection sont <strong>Java</strong>, <strong>HTML</strong> 
 <p><strong>En cours</strong></p>
 <ul>
   <li><code>Notera</code> → gestionnaire de bibliothèque perso CLI + GUI · Java / Gson / Gradle</li>
-  <li><code>Portfolio</code> → portfolio personnel · HTML / CSS / JS</li>
+  <li><code>Portfolio</code> → portfolio personnel · HTML, CSS, JavaScript</li>
   <li><code>Arch Prod</code> → agence web &amp; logiciel — <a href="https://archprod.netlify.app/">Arch-Prod</a></li>
 </ul>
 <p><strong>Terminés</strong></p>
 <ul>
-  <li><code>SquidTchat</code> → chat LAN temps réel · JS / C++ Qt / WebSocket</li>
-  <li><code>WJH</code> → application météo pour hélicoptères — données via OpenWeather API · C++ / Qt</li>
+  <li><code>SquidTchat</code> → chat LAN temps réel - HTML, CSS, JavaScript / C++ Qt / WebSocket</li>
+  <li><code>WJH</code> → application météo pour hélicoptères - données via OpenWeather API · C++ / Qt</li>
 </ul>
 
 <h2>&lt;h4&gt; Stats &lt;/h4&gt;</h2>
