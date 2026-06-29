@@ -19,7 +19,7 @@ Mes langages de prédilection sont **Java**, **HTML** et **CSS**.
 
 | | |
 |---:|:---|
-| **Langages** | ![](https://skillicons.dev/icons?i=java,html,css,tailwind,js&theme=dark) |
+| **Langages** | ![](https://skillicons.dev/icons?i=java,html,css,tailwind,js,vue&theme=dark) |
 | **Outils** | ![](https://skillicons.dev/icons?i=vim,sublime,vscodium,git,github,nginx&theme=dark) |
 | **Env. de dev** | ![](https://skillicons.dev/icons?i=apple,windows&theme=dark) |
 
