@@ -1,7 +1,6 @@
-Hi, I'm Wilstan 👋
-=========================================================================================================================================
+# Wilstan Sanquer
 
-🛠️ Développeur Web & Logiciel
+🛠️ Dev Frontend & Java POO Junior
 --------------------
 
 *   🌍  Basé en France
@@ -13,30 +12,30 @@ Hi, I'm Wilstan 👋
 
 #### Backend
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="36" height="36" alt="NetBeans" />
+  <img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java" />
 </p>
 
 #### Frontend
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="36" height="36" alt="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript" />
 </p>
 
 #### Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36" height="36" alt="Vim" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="36" height="36" alt="Sublime Text" />
+  <img src="https://skillicons.dev/icons?i=vim" width="36" height="36" alt="Vim" />
+  <img src="https://skillicons.dev/icons?i=sublime" width="36" height="36" alt="Sublime Text" />
   <img src="https://skillicons.dev/icons?i=vscodium" width="36" height="36" alt="VSCodium" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="36" height="36" alt="NetBeans" />
+  <img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub" />
 </p>
 
 #### Environnement de dev
 <p align="left">
-  <img src="https://img.icons8.com/ios7/600/FFFFFF/mac-os.png" width="36" height="36" alt="macOS" />
+  <img src="https://skillicons.dev/icons?i=apple" width="36" height="36" alt="macOS" />
   <img src="https://skillicons.dev/icons?i=windows" width="36" height="36" alt="Windows" />
   <img src="https://skillicons.dev/icons?i=debian" width="36" height="36" alt="Debian" />
 </p>
