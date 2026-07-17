@@ -21,6 +21,7 @@
   <img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="36" height="36" alt="TailwindCSS" />
   <img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=svelte" width="36" height="36" alt="Svelte" />
 </p>
 
 #### Tools
