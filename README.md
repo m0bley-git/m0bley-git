@@ -5,7 +5,7 @@
 
 *   🌍  Basé en France
 *   🎓  Étudiant en BTS CIEL (Informatique et Réseaux)
-*   🚀  Co-fondateur de [Arch Prod](https://archprod.alwaysdata.net/) — agence web & logiciel
+*   🚀  Co-fondateur de [Arch Prod](https://archprod.alwaysdata.net/) - agence web & logiciel
 *   💻  Je travaille sur mes propres projets et sur ceux de mes clients via Arch Prod
 
 ### Compétences
@@ -43,7 +43,7 @@
 
 ### Philosophie
 
-- *Comprendre avant d'utiliser — l'IA est un outil, pas un raccourci*
+- *Comprendre avant d'utiliser - l'IA est un outil, pas un raccourci*
 - *Apprendre en faisant, pas en regardant*
 - *Tester, casser, comprendre et réparer*
 
