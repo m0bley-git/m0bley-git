@@ -1,28 +1,48 @@
-# Wilstan Sanquer
-### 🛠️ Dev Frontend & Java POO Junior • Basé en France
+Wilstan Sanquer
+=========================================================================================================================================
 
-Co-fondateur de [Arch Prod](https://archprod.alwaysdata.net/), agence web & logiciel, je travaille sur mes propres projets ainsi que sur ceux de mes clients.
+🛠️ Dev Frontend & Java POO Junior
+--------------------
 
----
+*   🌍  Basé en France
+*   🚀  Co-fondateur de [Arch Prod](https://archprod.alwaysdata.net/) - agence web & logiciel
+*   💻  Je travaille sur mes propres projets ainsi que sur ceux de mes clients via Arch Prod
 
-## 👨🏻‍💻 Ce que je fais
+### 👨🏻‍💻 Ce que je fais
 
-### 🖥️ **Développement Frontend**
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23FF3E00.svg?style=flat&logo=svelte&logoColor=white)
+#### 🖥️ Développement Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="36" height="36" alt="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=angular" width="36" height="36" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=svelte" width="36" height="36" alt="SvelteKit" />
+</p>
 
-J'aime voir un site web ou une app web prendre vie.
+*Voir une idée se concrétiser en interface utilisable est ce qui me motive le plus.*
 
-### ⚙️ **Backend**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+#### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C" />
+</p>
 
-Une base solide en programmation orientée objet, avec une curiosité pour le bas niveau.
+*Une base solide en programmation orientée objet, avec une curiosité pour le bas niveau.*
 
-### ☁️ **Autres technologies que j'aime utiliser**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+#### ☁️ Autres technologies que j'aime utiliser
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php" width="36" height="36" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL" />
+</p>
 
----
+#### 🛠️ Outils
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=gitlab" width="36" height="36" alt="GitLab" />
+  <img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="36" height="36" alt="Vercel" />
+</p>
 
-## 🖊️ Quelques valeurs qui guident mon code
+### 🖊️ Quelques valeurs qui guident mon code
 - *Comprendre avant d'utiliser - l'IA est un outil, pas un raccourci*
 - *Apprendre en faisant, pas en regardant*
 - *Tester, casser, comprendre et réparer*
