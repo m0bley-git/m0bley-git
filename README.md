@@ -23,7 +23,6 @@ Wilstan Sanquer
 #### ⚙️ Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C" />
 </p>
 
 *Une base solide en programmation orientée objet, avec une curiosité pour le bas niveau.*
