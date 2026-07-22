@@ -14,7 +14,6 @@ Wilstan Sanquer
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=angular" width="36" height="36" alt="Angular" />
   <img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript" />
   <img src="https://skillicons.dev/icons?i=svelte" width="36" height="36" alt="SvelteKit" />
 </p>
