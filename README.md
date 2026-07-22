@@ -37,6 +37,7 @@ Wilstan Sanquer
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" />
   <img src="https://skillicons.dev/icons?i=gitlab" width="36" height="36" alt="GitLab" />
+  <img src="https://skillicons.dev/icons?i=vscodium" width="36" height="36" alt="Vscodium" />
   <img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=vercel" width="36" height="36" alt="Vercel" />
 </p>
