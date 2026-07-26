@@ -18,7 +18,7 @@ Quelques valeurs qui guident mon code
 saw@github ~ % cat stack.json
 {
   "frontend": ["HTML", "CSS", "TypeScript", "SvelteKit", "Nuxt"],
-  "backend": ["Java", "Spring Boot"],
+  "backend": ["Java", "Spring Boot", "Rust"],
   "outils": ["Git", "GitLab", "Linux", "Vercel", "IntelliJ"]
 }
 
