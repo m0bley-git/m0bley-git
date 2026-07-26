@@ -42,6 +42,8 @@ Wilstan Sanquer
   <img src="https://skillicons.dev/icons?i=vercel" width="36" height="36" alt="Vercel" />
 </p>
 
+![Wilstan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wilstan-sanquer&layout=compact&langs_count=16&hide_border=true&bg_color=161b22&text_color=c9d1d9&title_color=58a6ff&cache_seconds=3600)
+
 ### 🖊️ Quelques valeurs qui guident mon code
 - *Comprendre avant d'utiliser - l'IA est un outil, pas un raccourci*
 - *Apprendre en faisant, pas en regardant*
