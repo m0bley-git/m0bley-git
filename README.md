@@ -25,5 +25,3 @@ saw@github ~ % cat stack.json
 saw@github ~ % ./stats.sh --lang
 ```
 ![Wilstan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wilstan-sanquer&layout=compact&langs_count=16&hide_border=true&bg_color=161b22&text_color=c9d1d9&title_color=58a6ff&cache_seconds=3600)
-
-![Wilstan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wilstan-sanquer&theme=react-dark&hide_border=true&bg_color=161b22)
