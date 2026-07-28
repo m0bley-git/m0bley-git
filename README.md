@@ -3,7 +3,7 @@
 ```
 saw@github ~ % whoami
 name       Wilstan Sanquer
-role       Développeur Frontend & Java POO Junior
+role       Développeur Junior
 status     Étudiant BTS CIEL (Informatique et Réseaux)
 company    Co-fondateur @ Arch Prod
 location   France
@@ -17,9 +17,9 @@ Quelques valeurs qui guident mon code
 
 saw@github ~ % cat stack.json
 {
-  "frontend": ["HTML", "CSS", "TypeScript", "SvelteKit", "Nuxt"],
-  "backend": ["Java", "Spring Boot", "Rust"],
-  "outils": ["Git", "GitLab", "Linux", "Vercel", "IntelliJ"]
+  "frontend": ["HTML", "CSS", "TypeScript", "SvelteKit"],
+  "backend": ["Java", "Spring Boot"],
+  "outils": ["Git", "GitLab", "Linux", "Vercel"]
 }
 
 saw@github ~ % ./stats.sh --lang
