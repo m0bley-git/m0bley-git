@@ -29,6 +29,7 @@
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" /></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub" /></a>
+  <a href="https://vscodium.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscodium" width="36" height="36" alt="Codium" /></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux" /></a>
 </p>
 
