@@ -1,27 +1,39 @@
-# Wilstan Sanquer
+## 🛠️ Étudiant en BTS CIEL · Apprenti programmeur
 
-```
-saw@github ~ % whoami
-name       Wilstan Sanquer
-role       Développeur Junior
-status     Étudiant BTS CIEL (Informatique et Réseaux)
-company    Co-fondateur @ Arch Prod
-location   France
+*   🌍  Basé en France
+*   📱  Co-fondateur de [Arch-Prod](https://archprod.alwaysdata.net/)
+*   ☕  Actuellement en apprentissage : **Java & Spring Boot**
+*   🖥️  Stack frontend : **Svelte · TypeScript · HTML · CSS**
 
-saw@github ~ % cat values.txt
-Quelques valeurs qui guident mon code
+### Compétences
 
-- Comprendre avant d'utiliser : l'IA est un outil, pas un raccourci
-- Apprendre en faisant, pas en regardant
-- Tester, casser, comprendre et réparer
+#### Backend
 
-saw@github ~ % cat stack.json
-{
-  "frontend": ["HTML", "CSS", "TypeScript", "SvelteKit"],
-  "backend": ["Java", "Spring Boot"],
-  "outils": ["Git", "GitLab", "Linux", "Vercel"]
-}
+<p align="left">
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java" /></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring Boot" /></a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=maven" width="36" height="36" alt="Maven" /></a>
+</p>
 
-saw@github ~ % ./stats.sh --lang
-```
-![Wilstan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wilstan-sanquer&layout=compact&langs_count=16&hide_border=true&bg_color=161b22&text_color=c9d1d9&title_color=58a6ff&cache_seconds=3600)
+#### Frontend
+
+<p align="left">
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=svelte" width="36" height="36" alt="Svelte" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS3" /></a>
+</p>
+
+#### Outils
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux" /></a>
+</p>
+
+## 📊 Stats Langages
+
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wilstan-sanquer&layout=compact&langs_count=16&hide_border=true&bg_color=161b22&text_color=c9d1d9&title_color=58a6ff&cache_seconds=3600" alt="Wilstan's Language stats" />
+</p>
