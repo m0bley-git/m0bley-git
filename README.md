@@ -2,8 +2,8 @@
 
 *   🌍  Basé en France
 *   📱  Co-fondateur de [Arch-Prod](https://archprod.alwaysdata.net/)
-*   ☕  Actuellement en apprentissage : **Java & Spring Boot**
-*   🖥️  Stack frontend : **Svelte · TypeScript · HTML · CSS**
+*   ☕  Actuellement en apprentissage : **Java & TypeScript**
+*   🖥️  Stack frontend : **Svelte · HTML · CSS**
 
 ### Compétences
 
