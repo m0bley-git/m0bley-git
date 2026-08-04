@@ -11,7 +11,6 @@
 
 <p align="left">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java" /></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring Boot" /></a>
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=maven" width="36" height="36" alt="Maven" /></a>
 </p>
 
