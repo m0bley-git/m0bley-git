@@ -2,7 +2,7 @@
 
 *   🌍  Basé en France
 *   📱  Co-fondateur de [Arch-Prod](https://archprod.alwaysdata.net/)
-*   ☕  Actuellement en apprentissage : **Java & TypeScript**
+*   ☕  Actuellement en apprentissage : **Java & Javascript**
 *   🖥️  Stack frontend : **Svelte · HTML · CSS**
 
 ### Compétences
@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=svelte" width="36" height="36" alt="Svelte" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="Javascript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS3" /></a>
 </p>
