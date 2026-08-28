@@ -1,4 +1,4 @@
-## 🛠️ Étudiant en BTS CIEL · Apprenti programmeur
+## 🛠️ Étudiant en BTS CIEL · Apprenti développeur 
 
 *   🌍  Basé en France
 *   📱  Co-fondateur de [Arch-Prod](https://archprod.alwaysdata.net/)
