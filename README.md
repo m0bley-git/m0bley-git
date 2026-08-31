@@ -17,10 +17,12 @@
 #### Frontend
 
 <p align="left">
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=svelte" width="36" height="36" alt="Svelte" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="Javascript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML5" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" width="36" height="36" alt="Sass" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="Javascript" /></a>
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=svelte" width="36" height="36" alt="Svelte" /></a>
+  <a href="https://nuxt.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nuxt" width="36" height="36" alt="Nuxt" /></a>
 </p>
 
 #### Outils
